@@ -9,5 +9,8 @@
     <h1 class="text-3xl font-bold underline">
         Hello world!
     </h1>
+
+    <button class="px-4 py-2 text-white sm:px-8
+    sm:py-3 bg-sky-700 hover:bg-sky-800">Button</button>
 </body>
 </html>
